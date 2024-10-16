@@ -36,8 +36,8 @@ To access and run any of the projects in this repository:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/ryanfer123/portfolio.git
-   cd portfolio
+   git clone https://github.com/ryanfer123/ryanfer123.git
+   cd ryanfer123
    ```
 
 2. **Navigate to individual projects**  
