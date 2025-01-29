@@ -19,7 +19,7 @@ learner
 
 ## Skills
 
-- **Programming Languages**: Python, MATLAB
+- **Programming Languages**: Python, MATLAB, C
 - **Software Tools**: OrCAD Capture CIS
 - **Other Expertise**: Critical Thinking, Problem-Solving, Teamwork, Leadership
 - **Beginner** to coding, continuously improving
