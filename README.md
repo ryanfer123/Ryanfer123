@@ -13,13 +13,13 @@ contributions.
 6. [contact](#contact)
 
 ## About me 
-I am Ryan Fernandes, a dedicated student of Computer Science and Engineering at VIT Vellore. I have been in college for over a month and have already engaged in specialized sessions 
+I am Ryan Fernandes, a dedicated student of Computer Science and Engineering at VIT Vellore. I have been in college for nearly a year and have already engaged in specialized sessions 
 focusing on my field of study. My interests lie in **programming**, **sports**, and **teamwork oriented challenges**. I am always ready to learn from my mistakes and I am a fast 
-learner
+learner.
 
 ## Skills
 
-- **Programming Languages**: Python, MATLAB, C
+- **Programming Languages**: Python, MATLAB, C, C++
 - **Software Tools**: OrCAD Capture CIS
 - **Other Expertise**: Critical Thinking, Problem-Solving, Teamwork, Leadership
 - **Beginner** to coding, continuously improving
