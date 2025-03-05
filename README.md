@@ -28,7 +28,7 @@ learner.
 ## Projects
 
 1.Discord bot (python)
-## 🚀 Features
+**🚀 Features**
 
 - **AI Chat** (powered by Gemini API)
 - **Music Player** (with Wavelink)
