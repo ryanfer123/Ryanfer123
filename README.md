@@ -27,7 +27,15 @@ learner.
 
 ## Projects
 
-Will start some later as i'm still learning 😄
+1.Discord bot (python)
+## 🚀 Features
+
+- **AI Chat** (powered by Gemini API)
+- **Music Player** (with Wavelink)
+- **Reminders** ⏰
+- **Polls** 🗳️
+- **Welcome Messages** 🎉
+- **Database Support** (SQLite with `aiosqlite`)
 
 
 ## How to Use
