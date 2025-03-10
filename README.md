@@ -27,7 +27,7 @@ learner.
 
 ## Projects
 
-1.Discord bot (python)
+1. Discord bot (python)
 **🚀 Features**
 
 - **AI Chat** (powered by Gemini API)
@@ -37,7 +37,10 @@ learner.
 - **Welcome Messages** 🎉
 - **Database Support** (SQLite with `aiosqlite`)
 
+2. Signature Forgery Detector (using Tensorflow)
+**🚀 Features**
 
+-**Dataset from Kaggle**
 ## How to Use
 
 To access and run any of the projects in this repository:
