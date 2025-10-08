@@ -36,10 +36,11 @@ learner.
 - **Polls** 🗳️
 - **Welcome Messages** 🎉
 - **Database Support** (SQLite with `aiosqlite`)
-- **Hacktoberfest Contributer**
-- [![An image of @ryanfer123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryanfer123)](https://holopin.io/@ryanfer123)
+  
+2. **Hacktoberfest Contributer**
+[![An image of @ryanfer123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryanfer123)](https://holopin.io/@ryanfer123)
 
-2. Signature Forgery Detector (using Tensorflow)
+3. Signature Forgery Detector (using Tensorflow)
 **🚀 Features**
 
 -**Dataset from Kaggle**
