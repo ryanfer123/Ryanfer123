@@ -1,6 +1,6 @@
 # Ryan Fernandes- Portfolio
 
-Welcome to my personal portfolio repository! I am a first year computer science engineering student studying at VIT Vellore with a strong foundation in problem-solving, critical 
+Welcome to my personal portfolio repository! I am a second year computer science engineering student studying at VIT Vellore with a strong foundation in problem-solving, critical 
 thinking, and teamwork. I have experience in programming languages such as python, MATLAB, C ,Java, C++. This repository showcases my journey, projects and 
 contributions.
 
