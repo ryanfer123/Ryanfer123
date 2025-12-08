@@ -81,9 +81,6 @@ AI-powered mental health app with rich features for user well-being.
 **[ryanfer123/ryanfer123.github.io](https://github.com/ryanfer123/ryanfer123.github.io)**  
 Personal website—portfolio and project highlights.
 
-### 12. Test and Miscellaneous Projects
-- **[ryanfer123/test2](https://github.com/ryanfer123/test2)**: Testing and experimentation space.
-
 ---
 
 ## How to Use
