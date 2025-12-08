@@ -77,10 +77,6 @@ Natural language AI support and guidance for farmers, overcoming common barriers
 **[SilentFURY-x/EOS---The-Lazarus-Protocol](https://github.com/SilentFURY-x/EOS---The-Lazarus-Protocol)**  
 AI-powered mental health app with rich features for user well-being.
 
-### 11. Personal Portfolio Page
-**[ryanfer123/ryanfer123.github.io](https://github.com/ryanfer123/ryanfer123.github.io)**  
-Personal website—portfolio and project highlights.
-
 ---
 
 ## How to Use
