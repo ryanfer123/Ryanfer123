@@ -69,7 +69,7 @@ Signature forgery detection using machine learning.
 **[ryanfer123/IEEE-CS-CC](https://github.com/ryanfer123/IEEE-CS-CC)**  
 Implementation of various competitive coding tasks for IEEE CS Chapter.
 
-### 9. Agriculture Advisory AI (Python)
+### 9. Agriculture Advisory AI (Python) (Currently Working On)
 **[ryanfer123/Agriculture-Project-AI-ML-RoboVITics](https://github.com/ryanfer123/Agriculture-Project-AI-ML-RoboVITics)**  
 Natural language AI support and guidance for farmers, overcoming common barriers.
 
