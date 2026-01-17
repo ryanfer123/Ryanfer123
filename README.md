@@ -63,8 +63,6 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ryanfer123&theme=catppuccin-latte&hide_border=true)
 
-📝 GitHub Readme Streak Stats: [catppuccin/github-readme-streak-stats](https://github.com/catppuccin/github-readme-streak-stats)
-
 ---
 ## Projects
 
