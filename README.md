@@ -61,7 +61,7 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ryanfer123&theme=catppuccin-latte&hide_border=true)
+([![GitHub Streak](https://streak-stats.demolab.com?user=ryanfer123&theme=everforest-dark)](https://git.io/streak-stats))
 
 ---
 ## Projects
