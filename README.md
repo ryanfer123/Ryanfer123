@@ -6,11 +6,10 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 
 ## Table of Contents
 1. [Badges and tools](#Badges-and-tools)
-2. [Github Stats](#GIthub-Stats)
-3. [Projects](#projects)
-4. [How to Use](#how-to-use)
-5. [Contributing](#contributing)
-6. [Contact](#contact)
+2. [Projects](#projects)
+3. [How to Use](#how-to-use)
+4. [Contributing](#contributing)
+5. [Contact](#contact)
 
 
 ## Badges and Tools
@@ -59,11 +58,6 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 
 ---
 
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ryanfer123&theme=dark&hide_border=true)
-
----
 ## Projects
 
 ### 1. Discord Bot (Python)
