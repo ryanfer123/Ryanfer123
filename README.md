@@ -1,6 +1,17 @@
 # Ryan Fernandes — Portfolio
 
 Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year Computer Science Engineering student at VIT Vellore. I’m passionate about problem-solving, critical thinking, and teamwork, with hands-on experience in multiple programming languages and technology domains. Here you’ll find my journey, projects, and contributions—showcasing my growth 
+
+---
+
+## Table of Contents
+1. [Badges and tools](#Badges-and-tools)
+2. [Projects](#projects)
+3. [How to Use](#how-to-use)
+4. [Contributing](#contributing)
+5. [Contact](#contact)
+
+
 ## Badges and Tools
 
 ### Programming Languages
@@ -46,37 +57,6 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=KDE&logoColor=white)
 
 ---
-
-## Table of Contents
-1. [About Me](#about-me)
-2. [Skills](#skills)
-3. [Projects](#projects)
-4. [How to Use](#how-to-use)
-5. [Contributing](#contributing)
-6. [Contact](#contact)
-
----
-
-## About Me
-
-I’m a dedicated Computer Science and Engineering student at VIT Vellore, currently in my second year....
-
-## About Me
-
-I’m a dedicated Computer Science and Engineering student at VIT Vellore, currently in my second year. My academic journey features specialized sessions and hands-on opportunities that deepen my interest in **programming**, **sports**, and **team-oriented challenges**. I'm always ready to learn, quick to adapt, and eager to grow by learning from my experiences.
-
----
-
-## Skills
-
-- **Programming Languages**: Python, MATLAB, C, C++, Java, TypeScript, Kotlin
-- **Software Tools**: OrCAD Capture CIS, MATLAB, RStudio
-- **Professional Skills**: Critical Thinking, Problem-Solving, Teamwork, Leadership
-- **Coding Level**: Intermediate — continuously learning and improving
-- **Other Abilities**: Strong communication and adaptability in academic & professional environments
-
----
-
 ## Projects
 
 ### 1. Discord Bot (Python)
