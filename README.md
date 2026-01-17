@@ -61,7 +61,7 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 
 ## GitHub Stats
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanfer123)](https://github.com/ryanfer123/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ryanfer123&theme=dark&hide_border=true)
 
 ---
 ## Projects
