@@ -14,7 +14,8 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year Computer Science Engineering student at VIT Vellore. I’m passionate about problem-solving, critical thinking, and tea[...]
+Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year Computer Science Engineering student at VIT Vellore. I’m passionate about problem-solving, critical thinking, and teateamwork, with hands-on experience in multiple programming languages and technology domains. Here you’ll find my journey, projects, and contributions—showcasing my growth and drive to build impactful solutions!
+
 
 ---
 
