@@ -6,10 +6,11 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 
 ## Table of Contents
 1. [Badges and tools](#Badges-and-tools)
-2. [Projects](#projects)
-3. [How to Use](#how-to-use)
-4. [Contributing](#contributing)
-5. [Contact](#contact)
+2. [Github Stats](#GIthub-Stats)
+3. [Projects](#projects)
+4. [How to Use](#how-to-use)
+5. [Contributing](#contributing)
+6. [Contact](#contact)
 
 
 ## Badges and Tools
@@ -55,6 +56,14 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=KDE&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ryanfer123&theme=catppuccin-latte&hide_border=true)
+
+📝 GitHub Readme Streak Stats: [catppuccin/github-readme-streak-stats](https://github.com/catppuccin/github-readme-streak-stats)
 
 ---
 ## Projects
