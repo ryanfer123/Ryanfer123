@@ -1,6 +1,6 @@
 # Ryan Fernandes — Portfolio
 
-Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year Computer Science Engineering student at VIT Vellore. I’m passionate about problem-solving, critical thinking, and teamwork, with hands-on experience in multiple programming languages and technology domains. Here you’ll find my journey, projects, and contributions—showcasing my growth 
+Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year Computer Science Engineering student at VIT Vellore. I’m passionate about problem-solving, critical thinking, and teamwork, with hands-on experience in multiple programming languages and technology domains. Here you’ll find my journey, projects, and contributions.
 
 ---
 
@@ -61,7 +61,7 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a second-year
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanfer123&theme=everforest-dark)](https://git.io/streak-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanfer123)](https://github.com/ryanfer123/github-readme-stats)
 
 ---
 ## Projects
