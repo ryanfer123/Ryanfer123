@@ -61,47 +61,42 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a Computer Sc
 **[ryanfer123/Agriculture-Project-AI-ML-RoboVITics](https://github.com/ryanfer123/Agriculture-Project-AI-ML-RoboVITics)**  
 An AI-powered assistant that gives natural-language guidance to farmers.
 
-### 2. GraphRAG (JavaScript)
+### 2. Blockchain Project — PharmaChain (JavaScript)
+**[ryanfer123/Blockchain-Project](https://github.com/ryanfer123/Blockchain-Project)**  
+Blockchain and AI system for counterfeit drug detection.
+
+### 3. GraphRAG (JavaScript)
 **[ryanfer123/GraphRAG](https://github.com/ryanfer123/GraphRAG)**  
 A JavaScript-based project exploring graph-powered retrieval and AI workflows.
 
-### 3. TinyML EV Guardian (C++)
+### 4. Trip Planner (TypeScript)
+**[ryanfer123/Trip-Planner](https://github.com/ryanfer123/Trip-Planner)**  
+A TypeScript-based trip planning project.
+
+### 5. TinyML EV Guardian (C++)
 **[ryanfer123/TinyML_EV_Guardian](https://github.com/ryanfer123/TinyML_EV_Guardian)**  
 TinyML project for edge computing on ESP32.
 
-### 4. EV Monitoring App (Kotlin)
+### 6. EV Monitoring App (Kotlin)
 **[ryanfer123/ev_monitoring_app](https://github.com/ryanfer123/ev_monitoring_app)**  
 Kotlin-based app for EV monitoring.
 
-### 5. Simulation of Forest Fire Spread using AI/ML (Python)
+### 7. IoT-based Hemodynamic System (Dart)
+**[ryanfer123/IoT-based-hemodynamic-system](https://github.com/ryanfer123/IoT-based-hemodynamic-system)**  
+An IoT-based system built with Dart, Python, C++, and related embedded technologies.
+
+### 8. Simulation of Forest Fire Spread using AI/ML (Python)
 **[ryanfer123/Simulation-of-Forest-Fire-Spread-using-AI-ML](https://github.com/ryanfer123/Simulation-of-Forest-Fire-Spread-using-AI-ML)**  
 Predicts and simulates forest fire likelihood and spread using geospatial, weather, and historical data.
 
-### 6. Discord Bot (Python)
+### 9. Discord Bot (Python)
 A multi-featured Discord bot with:
 - AI chat using Gemini API
 - Music playback with Wavelink
 - Reminders, polls, and welcome messages
 - SQLite database support using `aiosqlite`
 
-### 7. Signature Forgery Detector (TensorFlow)
-A machine learning project focused on detecting forged signatures.
-- Built with TensorFlow
-- Trained using Kaggle dataset(s)
-
-### 8. GDSC Discord Bot (Python)
-**[ryanfer123/DiscordBot-Gdsc](https://github.com/ryanfer123/DiscordBot-Gdsc)**  
-Automation bot for GDSC enrollments in the Python subdomain.
-
-### 9. Studio (TypeScript)
-**[ryanfer123/studio](https://github.com/ryanfer123/studio)**  
-A modern TypeScript-based project built with contemporary web development practices.
-
-### 10. IEEE CS CC Tasks (Python)
-**[ryanfer123/IEEE-CS-CC](https://github.com/ryanfer123/IEEE-CS-CC)**  
-Competitive coding and problem-solving tasks for IEEE CS Chapter.
-
-### 11. Hacktoberfest Contributor
+### 10. Hacktoberfest Contributor
 Contributed to open source during Hacktoberfest and collected Holopin badges.
 [![Holopin Badges — View my full profile](https://holopin.me/ryanfer123)](https://holopin.io/@ryanfer123)
 
