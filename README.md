@@ -8,6 +8,7 @@ Welcome to my personal portfolio repository! I’m Ryan Fernandes, a Computer Sc
 
 - **Interests**: Software development, machine learning, automation, and problem-solving
 - **Focus Areas**: Python, Java, C++, web development, and AI/ML
+- **RoboVITics**: Member of the **AI/ML** and **Cybersecurity** domains
 - **Currently Working On**: Agriculture advisory AI for farmers
 
 ---
@@ -97,6 +98,7 @@ Contributed to open source during Hacktoberfest and collected Holopin badges.
 - Building AI and automation projects with real-world impact
 - Improving my full-stack and machine learning skill set
 - Contributing more to open source
+- Working with RoboVITics in the AI/ML and Cybersecurity domains
 
 ---
 
