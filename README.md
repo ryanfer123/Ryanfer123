@@ -144,7 +144,7 @@ I welcome contributions and suggestions. If you'd like to collaborate:
 ## Contact
 
 - **Email**: ryanfernandes23816@gmail.com
-- **LinkedIn**: [linkedin.com/in/ryanfernandes1](https://linkedin.com/in/ryanfernandes1)
+- **LinkedIn**: [linkedin.com/in/ryanfernandes1](www.linkedin.com/in/ryan-fernandes-120291327)
 - **GitHub**: [github.com/ryanfer123](https://github.com/ryanfer123)
 
 ---
