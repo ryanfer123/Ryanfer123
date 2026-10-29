@@ -75,10 +75,6 @@ An AI/ML pipeline using NASA FIRMS data to predict next-day fire occurrence on a
 
 A zero-dependency macOS and Linux utility for captive-portal auto-login, WiFi monitoring, speed tests, data-usage history, network scanning, notifications, and background daemon support.
 
-### [Signature Forgery Detection](https://github.com/ryanfer123/CSI-ML) · Python
-
-A computer-vision pipeline combining MobileNetV2 feature extraction and SVM classification, with neural style transfer used to generate synthetic forged signatures.
-
 ### [TinyML EV Guardian](https://github.com/ryanfer123/TinyML_EV_Guardian) · C++
 
 An ESP32 edge-computing project for TinyML-based EV monitoring and guardian features.
@@ -86,10 +82,6 @@ An ESP32 edge-computing project for TinyML-based EV monitoring and guardian feat
 ### [GraphRAG](https://github.com/ryanfer123/GraphRAG) · JavaScript
 
 An exploration of graph-powered retrieval and AI workflows.
-
-### [Discord Bot](https://github.com/ryanfer123/DiscordBot-Gdsc) · Python
-
-A modular Discord bot with Gemini-powered chat, summaries, reminders, polls, welcome messages, and asynchronous SQLite persistence.
 
 ## Open Source & Community
 
